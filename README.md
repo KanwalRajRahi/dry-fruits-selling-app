@@ -1,4 +1,4 @@
-# Bharat Dry Fruits - E-commerce Website
+# Dry Fruits - E-commerce Website
 
 A full-stack e-commerce website for selling premium dry fruits and nuts, built with React and Node.js.
 

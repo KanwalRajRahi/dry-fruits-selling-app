@@ -99,7 +99,7 @@ A full-stack e-commerce website for selling premium dry fruits and nuts, built w
 2. Deploy the `dist` folder to your hosting service
 
 ## Admin Access
-- Email: admin@bharatdryfruits.com
+- Email: admin@dryfruits.com
 - Password: (set in .env file)
 
 ## Product Categories
